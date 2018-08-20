@@ -7,7 +7,7 @@ Go library to use MySportsFeeds API
 import (
     "context"
 
-    msf "github.com/joelhill/mysportsfeeds-go"
+    msf "github.com/MySportsFeeds/mysportsfeeds-go"
 )
 
 ctx := context.Context
